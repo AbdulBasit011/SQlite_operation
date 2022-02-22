@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQlite_operation</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="view_data">View data</string>
+    <string name="add_user">User name</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
